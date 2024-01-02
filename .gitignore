@@ -1,6 +1,5 @@
 /build
-/data/*
-!/data/.gitinit
+/data/*.g2o
 /thirdparty/*
 !/thirdparty/.gitinit
 .vscode
